@@ -1,5 +1,4 @@
-## Hello there ! <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='35' height = '35'/>
-
+<img src="https://github.com/conqryash007/conqryash007/blob/main/resource/Animation.gif"/>
 ### 🛠 &nbsp;Tech Stack
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
