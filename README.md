@@ -1,7 +1,5 @@
 <img src="https://github.com/conqryash007/conqryash007/blob/main/resource/Animation.gif" alt="HEY! YASH THIS SIDE 👋"/>
 
-<hr>
-
 ## 🛠 &nbsp;Tech Stack
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
