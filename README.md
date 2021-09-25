@@ -9,15 +9,23 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express&logoColor=%2361DAFB)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=green)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+## 🔢 &nbsp;Some digits
 
 <p align = 'center'>
   <img src="https://github-readme-stats.vercel.app/api?username=conqryash007&show_icons=true&theme=radical" alt="yash gupta" />
 <br>
 <img width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=conqryash007&theme=tokyonight" alt="yash gupta" />
+<p align = 'center'>
+<a href="https://github.com/conqryash007/github-readme-stats"><img alt="Yash's most used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conqryash007&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" /></a>
+  </p>
 </p>
+
 
 ## 🚀 &nbsp;Reach Me
 
