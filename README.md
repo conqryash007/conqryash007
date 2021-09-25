@@ -21,9 +21,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=conqryash007&show_icons=true&theme=radical" alt="yash gupta" />
 <br>
 <img width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=conqryash007&theme=tokyonight" alt="yash gupta" />
-<p align = 'center'>
-<a href="https://github.com/conqryash007/github-readme-stats"><img alt="Yash's most used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conqryash007&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" /></a>
-  </p>
+ <br>
+<a margin="0px" href="https://github.com/conqryash007/github-readme-stats"><img alt="Yash's most used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conqryash007&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 
@@ -33,7 +32,7 @@
 <a href="mailto:guptayash200010@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.instagram.com/conqryash007/"><img src="https://img.shields.io/badge/-@conqryash007_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-## 👥 Some useless info
+## 👨‍🎤 Some useless info
 
 <table>
   <tr>
