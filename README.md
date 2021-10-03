@@ -19,11 +19,12 @@
 ## 🔢 Some digits
 
 <p align = 'center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=conqryash007&show_icons=true&theme=radical" alt="yash gupta" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=conqryash007&theme=react-dark" alt="Yash's contribution graph(ig u should refresh🧐!)">
+  <img src="https://github-readme-stats.vercel.app/api?username=conqryash007&show_icons=true&theme=radical" alt="ig u should refresh🧐!" />
 <br>
-<img width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=conqryash007&theme=tokyonight" alt="yash gupta" />
+<img width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=conqryash007&theme=tokyonight" alt="ig u should refresh🧐!" />
  <br>
-<a margin="0px" href="https://github.com/conqryash007/github-readme-stats"><img alt="Yash's most used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conqryash007&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" /></a>
+<a margin="0px" href="https://github.com/conqryash007/github-readme-stats"><img alt="Yash's most used language(ig u should refresh🧐!)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conqryash007&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 <hr>
