@@ -33,8 +33,8 @@
 
 <a href="https://www.linkedin.com/in/guptayash007/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:guptayash200010@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.instagram.com/conqryash007/"><img src="https://img.shields.io/badge/-@conqryash007_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-
+<a href="https://www.instagram.com/conqryash007/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://twitter.com/THECONQ23486972"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a> &nbsp;
 <hr>
 
 ## 👨‍🎤 Some useless info
