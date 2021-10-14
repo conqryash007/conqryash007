@@ -19,8 +19,8 @@
 ## 🔢 Some digits
 
 <img src="https://activity-graph.herokuapp.com/graph?username=conqryash007&theme=react-dark" alt="Yash's contribution graph(ig u should refresh🧐!)">
-<p align = "center">
-<img height="192px" src="https://github-readme-streak-stats.herokuapp.com/?user=conqryash007&theme=tokyonight" alt="ig u should refresh🧐!" /><a href="https://github.com/conqryash007/github-readme-stats"><img alt="Yash's most used language(ig u should refresh🧐!)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conqryash007&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" height="192px"/></a>
+  <p align="center">
+    <img height="192px" src="https://github-readme-streak-stats.herokuapp.com/?user=conqryash007&theme=tokyonight" alt="ig u should refresh🧐!" /><a href="https://github.com/conqryash007/github-readme-stats"><img alt="Yash's most used language(ig u should refresh🧐!)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conqryash007&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" height="192px"/></a>
 </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=conqryash007&show_icons=true&theme=radical" alt="ig u should refresh🧐!" /></p>
 
