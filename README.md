@@ -1,4 +1,4 @@
-<img src="https://github.com/conqryash007/conqryash007/blob/main/resource/Animation.gif" alt="HEY! YASH THIS SIDE 👋"/>
+<img src="https://github.com/conqryash007/conqryash007/blob/main/resource/Animation.gif" alt="HEY! YASH THIS SIDE 👋.(THIS WAS MADE BY RECORDING SCREEN=>CONVERTING IT TO GIF =>UPLOADING TO GITHUB => ADDING THIS TO IMAGE LIKE 👆 THIS 😀)"/>
 
 ## 🛠 &nbsp;Tech Stack
 
