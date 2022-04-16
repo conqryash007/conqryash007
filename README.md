@@ -20,8 +20,8 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=conqryash007&theme=react-dark" alt="Yash's contribution graph(ig u should refresh🧐! or come back later🐱‍💻)">
 <p align="center">
-<img height="192px" width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=conqryash007&theme=tokyonight" alt="ig u should refresh🧐! or come back later🐱‍💻" />
-<img alt="Yash's most used language(ig u should refresh🧐! or come back later🐱‍💻)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conqryash007&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" height="192px" width="340px"/></a>
+<img height="200px" width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=conqryash007&theme=tokyonight" alt="ig u should refresh🧐! or come back later🐱‍💻" />
+<img alt="Yash's most used language(ig u should refresh🧐! or come back later🐱‍💻)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conqryash007&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" height="200px" width="340px"/></a>
 </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=conqryash007&show_icons=true&theme=radical" alt="ig u should refresh🧐! or come back later🐱‍💻" /></p>
 
