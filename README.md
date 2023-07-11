@@ -18,7 +18,7 @@
 
 ## 🔢 Some digits
 
-[![Yash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=conqryash007&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=conqryash007&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center">
 <img height="200px" width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=conqryash007&theme=tokyonight" alt="ig u should refresh🧐! or come back later🐱‍💻" />
 <img alt="Yash's most used language(ig u should refresh🧐! or come back later🐱‍💻)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conqryash007&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" height="200px" width="340px"/></a>
